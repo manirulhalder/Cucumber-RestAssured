@@ -1,4 +1,4 @@
-# Cucumber-RestAssure performs magic
+# Cucumber-RestAssured performs magic
 
 ### What about this framework?
 Data-Driven and Behaviour-Driven framework to write automated test cases for web services with more focus on business.
